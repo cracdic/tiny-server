@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<link rel="stylesheet" href="styles.css">
+    <title>Sample "Hello, World" Application</title>
+  </head>
+  <body>
+
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>
+          <img src="static/giantslug.jpg">
+        </td>
+        <td>
+          <h1>Sample "Hello, World" Application</h1>
+        </td>
+      </tr>
+    </table>
+
+    <p>This is the home page for the HelloWorld Web application. </p>
+    <p>To prove that they work, you can execute either of the following links:
+    <ul>
+      <li>To <a href="static/marisa.jpg">marisa image</a>.
+      <li>Get <a href="static/kemono.mp4">kemono video</a>.
+    </ul>
+
+	<p>Or filled the form below to calculate the sum:</p>
+	<form style="text-align:center" action="/cgi-bin/adder" method="get">
+		arg1:<br>
+		<input type="text" name="arg1" value="0">
+		<br>
+		arg2:<br>
+		<input type="text" name="arg2" value="0">
+		<br><br>
+		<input type="submit" value="Submit">
+	</form>
+	
+  </body>
+</html>

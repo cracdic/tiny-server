@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61153661
+eax=004051CD ebx=00000011 ecx=00000003 edx=00000001 esi=004051CD edi=004051CD
+ebp=00608788 esp=0060877C program=D:\babun_folder\.babun\cygwin\home\thdice\csapp\tiny\tiny.exe, pid 14996, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+00608788  61153661 (004051CD, 004051CD, 00000014, 00000000)

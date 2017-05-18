@@ -1,0 +1,570 @@
+Requested headers
+GET /static/SymphonyOfDestruction.txt HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/SymphonyOfDestruction.txt HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/toki.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/toki.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/toki.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /favicon.ico HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/static/toki.jpg
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/toki.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/toki.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /favicon.ico HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/static/toki.jpg
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/marisa.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /favicon.ico HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/static/marisa.jpg
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/kemono.MP4 HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/marisa.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /favicon.ico HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/static/marisa.jpg
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/kemono.MP4 HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/SymphonyOfDestruction.txt HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /favicon.ico HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/static/SymphonyOfDestruction.txt
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/marisa.txt HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/marisa.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /cgi-bin/adder?15000&213 HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /cgi-bin/adder?15000&213 HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /cgi-bin/adder?15000&213 HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /cgi-bin/adder?15000&213 HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /favicon.ico HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/cgi-bin/adder?15000&213
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET / HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET / HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /images/springsource.png HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET / HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/giantslug.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET / HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/giantslug.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/marisa.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET / HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/giantslug.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET / HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/giantslug.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /favicon.ico HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/kemono.mp4 HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET / HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET / HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/giantslug.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/marisa.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/SymphonyOfDestruction.txt HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/SymphonyOfDestruction.txt HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET / HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /styles.css HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/css,*/*;q=0.1
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /static/giantslug.jpg HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /favicon.ico HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
+Requested headers
+GET /cgi-bin/adder?arg1=500&arg2=123 HTTP/1.1
+Host: localhost:12450
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+DNT: 1
+Referer: http://localhost:12450/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+
